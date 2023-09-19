@@ -15,6 +15,7 @@
 
 Remember that learning CUDA requires patience and perseverance. Start small, gradually build your skills, and explore advanced topics as you progress. By combining theoretical knowledge with hands-on practice, you can become proficient in CUDA programming.
 
+## [Later, All in Linux （with Windows 10)](./EnvironmentSetup.md)
 ## [C++ Basic](./needToKnow_Cpp)
 
-## Later, All in Linux
+
