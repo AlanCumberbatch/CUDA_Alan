@@ -14,3 +14,7 @@
   - Work on projects and real-world applications: Apply your CUDA knowledge to real-world projects and applications. This could involve tasks like image processing, data analysis, simulation, or machine learning. Building practical applications will help you gain practical experience and refine your CUDA skills.
 
 Remember that learning CUDA requires patience and perseverance. Start small, gradually build your skills, and explore advanced topics as you progress. By combining theoretical knowledge with hands-on practice, you can become proficient in CUDA programming.
+
+## [C++ Basic](./needToKnow_Cpp/)
+
+## Later, All in Linux
