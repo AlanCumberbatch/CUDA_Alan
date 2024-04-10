@@ -39,3 +39,5 @@
                3.  * Support:        https://ubuntu.com/advantage
                4.  To run a command as administrator (user "root"), use "sudo <command>". See "man sudo_root" for details.
     - 2. （线上）[在线代码编辑器-Replit](https://replit.com/) 或者 [基于网络的 Linux 终端-JSLinux](https://jslinux.org/)(使用基于浏览器的解决方案访问Linux)
+- 基础环境搭建好后
+  - 
